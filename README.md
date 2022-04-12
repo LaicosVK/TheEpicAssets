@@ -1,4 +1,4 @@
-![TheOtherHats Banner](./Images/TheOtherHats_logo.png)
+![TheOtherHats Banner](./Images/tea_logo.png)
 
 # TheOtherHats
 We're awaiting your creative hat designs and we'll integrate all the good ones in our mod  :heart_eyes:
