@@ -1,0 +1,77 @@
+{
+   "hats":[
+      {
+         "name":"Alpaca",
+         "author":"Piotr Nazwikso",
+         "package":"TER Community Hats",
+         "bounce":true,
+         "adaptive":true,
+         "condition":"None",
+         "resource":"alpaca_bounce_adaptive.png",
+         "climbresource":"alpaca_climb.png",
+         "reshasha":"8d0d6205e0c388e2833c3d4d6a9d3985",
+         "reshashc":"4a40d20e953277a2f4ad57331aadc038"
+      },
+      {
+         "name":"Artist",
+         "author":"Sen",
+         "package":"TER Community Hats",
+         "bounce":true,
+         "condition":"None",
+         "resource":"artist_bounce.png",
+         "backresource":"artist_back.png",
+         "climbresource":"artist_climb.png",
+         "flipresource":"artist_flip.png",
+         "reshasha":"62260930f3561682a99458a03afa0b7e",
+         "reshashb":"5bfc8a2bb6d86066efdf0bb61ea7b651",
+         "reshashc":"f490b4e9434244aecdcaf945a8d0b03a",
+         "reshashf":"9528b0c03079618da8ed18c245dc8687"
+      },
+      {
+         "name":"Bear",
+         "author":"BXXPlayz",
+         "package":"TER Community Hats",
+         "adaptive":true,
+         "condition":"None",
+         "resource":"bear_adaptive.png",
+         "climbresource":"bear_climb.png",
+         "reshasha":"a6c243b691d6b24a9f063d82bd0ee7cb",
+         "reshashc":"d84f1a829fa838ead7e5f63989ff8f78"
+      },
+      {
+         "name":"Pigeon",
+         "author":"Light",
+         "package":"TER Community Hats",
+         "condition":"None",
+         "resource":"Pigeon.png",
+         "climbresource":"Pigeon_climb.png",
+         "reshasha":"ff9f2dfc0341032afa6df138a986a2ce",
+         "reshashc":"ff56daea483551e494b021aafd4ba60f"
+      },
+      {
+         "name":"Techie Junk",
+         "author":"Ska",
+         "package":"TER Community Hats",
+         "adaptive":true,
+         "condition":"None",
+         "resource":"TechieJunk.png",
+         "climbresource":"TechieJunk_climb.png",
+         "reshasha":"5693a08ce51f5be69bc033d31736bc9e",
+         "reshashc":"74cb999167283a24af9dc505287bf95a"
+      },
+      {
+         "name":"Vessel",
+         "author":"Catudon",
+         "package":"TER Community Hats",
+         "bounce":true,
+         "adaptive":true,
+         "condition":"None",
+         "resource":"Vessel_adaptive.png",
+         "backresource":"Vessel_bounce_back.png",
+         "climbresource":"Vessel_climb_adaptive.png",
+         "reshasha":"8a80f061303d0f0c75f60298e8978017",
+         "reshashb":"1626ebf8a17dcd9da55be89cf155c58f",
+         "reshashc":"ce10f1d7d9fa47ce8aa2485912487482"
+      }
+   ]
+}
