@@ -3,7 +3,7 @@
       {
          "name":"Alpaca",
          "author":"Piotr Nazwikso",
-         "package":"Community Hats",
+         "package":"TER Community Hats",
          "bounce":true,
          "adaptive":true,
          "condition":"None",
@@ -15,7 +15,7 @@
       {
          "name":"Artist",
          "author":"Sen",
-         "package":"Community Hats",
+         "package":"TER Community Hats",
          "bounce":true,
          "condition":"None",
          "resource":"artist_bounce.png",
@@ -30,7 +30,7 @@
       {
          "name":"Bear",
          "author":"BXXPlayz",
-         "package":"Community Hats",
+         "package":"TER Community Hats",
          "adaptive":true,
          "condition":"None",
          "resource":"bear_adaptive.png",
@@ -41,7 +41,7 @@
       {
          "name":"Pigeon",
          "author":"Light",
-         "package":"Community Hats",
+         "package":"TER Community Hats",
          "condition":"None",
          "resource":"Pigeon.png",
          "climbresource":"Pigeon_climb.png",
@@ -51,7 +51,7 @@
       {
          "name":"Techie Junk",
          "author":"Ska",
-         "package":"Community Hats",
+         "package":"TER Community Hats",
          "adaptive":true,
          "condition":"None",
          "resource":"TechieJunk.png",
@@ -62,7 +62,7 @@
       {
          "name":"Vessel",
          "author":"Catudon",
-         "package":"Community Hats",
+         "package":"TER Community Hats",
          "bounce":true,
          "adaptive":true,
          "condition":"None",
